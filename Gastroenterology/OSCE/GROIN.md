@@ -34,6 +34,7 @@
 - [x] **Compare both sides by inspection**: inspect the contralateral side and compare both in mind.
 - [x] **Cough Impulse**: ask the patient to cough away from you and **inspect the groin again comparing both sides**, look specifically for lump impulse on cough.
 - [x]  **Palpation**: 
+  * Ask the patient if there is any tenderness over the lump and feel its temperature.
   * Palpate over a visible lump, if you detect any by using **the point sign** or **inspection**.
   * Ask the patient to cough and feel for cough impulse.
   * Palpate the area over the region of the pubic tubercle (**external ring site**).
