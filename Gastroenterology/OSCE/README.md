@@ -11,7 +11,7 @@
     - Cervical/Axillary lymph nodes
     - Chest
 - [x] [Abdominal Examination]()
-- [x] [Groin Examination](https://github.com/Scrappers-glitch/Medical-Archive/tree/master/../../../../../../GROIN.md)
+- [x] [Groin Examination](https://scrappers-glitch.github.io/Medical-Archive/Gastroenterology/OSCE/GROIN.html)
 - [x] [Rectal Examination]()
 - [x] [Extended Gastro-intestinal examination]()
 ----------------------------------------------------
