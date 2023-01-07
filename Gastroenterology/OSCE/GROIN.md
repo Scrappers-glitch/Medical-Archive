@@ -62,29 +62,33 @@
 #### Anatomical thumbnails: 
 | Pubic tubercle Relations |
 |-------------------------|
-| <img src="https://scrappers-glitch.github.io/Medical-Archive/Gastroenterology/OSCE/_assets/pubic-tubercle-relations.png" width=200 height=400 /> |
+| <img src="https://github.com/Scrappers-glitch/Medical-Archive/blob/master/Gastroenterology/OSCE/_assets/pubic-tubercle-relations.png" width=480 height=800 /> |
 
 | Scrotum invagination test |
 |--------------------------|
-| <img src="https://scrappers-glitch.github.io/Medical-Archive/Gastroenterology/OSCE/_assets/scrotum-invagination.png" width=200 height=400 /> |
+| <img src="https://github.com/Scrappers-glitch/Medical-Archive/blob/master/Gastroenterology/OSCE/_assets/scrotum-invagination.png" width=400 height=400 /> |
 
 | Internalized View of the Inguinal Region | 
 |-----------------------|
-| <img src="https://scrappers-glitch.github.io/Medical-Archive/Gastroenterology/OSCE/_assets/internalized-view.png" width=200 height=400 /> | 
+| <img src="https://github.com/Scrappers-glitch/Medical-Archive/blob/master/Gastroenterology/OSCE/_assets/internalized-view.png" width=800 height=600 /> | 
+
+| Inguinal Canal |
+|----------------|
+| <img src="https://github.com/Scrappers-glitch/Medical-Archive/blob/master/Gastroenterology/OSCE/_assets/inguinal-canal.png" width=800 height=600 /> |
 
 | Boundaries of the inguinal canal | Contents of the inguinal canal |
 |----------------------------------|--------------------------------|
-| <img src="https://github.com/Scrappers-glitch/Medical-Archive/tree/master/../../../../../../.assets/inguinal-canal.png" width=200 height=400 /> | |
-| - Anteriorly: External oblique aponeurosis </br> - Laterally: Internal oblique muscle </br> - Medially: conjoint tendon </br> - Superiorly: Internal oblique and transversus abdominis </br> - Inferiorly: inguinal ligament </br> - Posteriorly: transversalis fascia and transversus abdominis muscle | <ul> <li> Spermatic cord wrapped with spermatic fascia: - Ductus deference - Ductus vessels - Testicular vessels - Cremasteric vessels - Cremasteric muscle (medial part) - Genital branch of genitofemoral nerve </li> <li> Ilioinguinal nerve </li> </ul> |
+| - Anteriorly: External oblique aponeurosis </br> - Laterally: Internal oblique muscle </br> - Medially: conjoint tendon </br> - Superiorly: Internal oblique and transversus abdominis </br> - Inferiorly: inguinal ligament </br> - Posteriorly: transversalis fascia and transversus abdominis muscle | - **Spermatic cord wrapped with spermatic fascia:** - Ductus deference - Ductus vessels - Testicular vessels - Cremasteric vessels - Cremasteric muscle (medial part) - Genital branch of genitofemoral nerve. <br/> - Ilioinguinal nerve |
+
 
 | Congenital herniation | 
 |--------------------------------------|
-|<img src="https://scrappers-glitch.github.io/Medical-Archive/Gastroenterology/OSCE/_assets/pathophysiology-congenital-hernia.png" width=200 height=400 /> |
+|<img src="https://github.com/Scrappers-glitch/Medical-Archive/blob/master/Gastroenterology/OSCE/_assets/pathophysiology-congenital-hernia.png" width=600 height=600 /> |
 | Congenital hernias, which make up the majority of pediatric hernias, can be considered a developmental defect rather than an acquired weakness. During the normal course of development, the testes descend from the intra-abdominal space into the scrotum in the third trimester. Their descent is guided by the gubernaculum through an evagination of the peritoneum, which protrudes through the inguinal canal and becomes the processus vaginalis. Between 36 and 40 weeks’ gestation, the processus vaginalis closes and eliminates the peritoneal opening at the internal inguinal ring. 14 Failure of the peritoneum to close results in a patent processus vaginalis (PPV). In preterm babies, indirect inguinal hernias as a result of PPV is very high (Fig. 37-10). However, overall, the risk of developing a symptomatic hernia during childhood in the presence of a known PPV is relatively low. | |
 
 | Boundaries of the femoral triangle | Contents of the femoral triangle |
 |--------------------------------------|--------------------------|
-| <img src="https://scrappers-glitch.github.io/Medical-Archive/Gastroenterology/OSCE/_assets/femoral-canal.png" width=200 height=400 /> | <img src="https://scrappers-glitch.github.io/Medical-Archive/Gastroenterology/OSCE/_assets/femoral-canal-contents.png" width=200 height=400 /> |
+| <img src="https://github.com/Scrappers-glitch/Medical-Archive/blob/master/Gastroenterology/OSCE/_assets/femoral-canal.png" width=600 height=800 /> | <img src="https://github.com/Scrappers-glitch/Medical-Archive/blob/master/Gastroenterology/OSCE/_assets/femoral-canal-contents.png" width=600 height=800 /> |
 
 Boundaries of the femoral triangle:
 - Base: inguinal ligament.
@@ -96,8 +100,8 @@ thigh.
 
 | Anatomy of the femoral sheath |
 |---------------------------|
-| <img src="https://scrappers-glitch.github.io/Medical-Archive/Gastroenterology/OSCE/_assets/femoral-sheath.png" width=200 height=400 /> |
-| <img src="https://scrappers-glitch.github.io/Medical-Archive/Gastroenterology/OSCE/_assets/femoral-canal-2.png" width=200 height=400 /> |
+| <img src="https://github.com/Scrappers-glitch/Medical-Archive/blob/master/Gastroenterology/OSCE/_assets/femoral-sheath.png" width=800 height=600 /> |
+| <img src="https://github.com/Scrappers-glitch/Medical-Archive/blob/master/Gastroenterology/OSCE/_assets/femoral-sheath-2.png" width=800 height=600 /> |
 
 Boundaries of the femoral canal: 
 * Medially: lymphatic vessels and the medial wrapping of the femoral sheath.
