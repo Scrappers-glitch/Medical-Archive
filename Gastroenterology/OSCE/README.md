@@ -1,6 +1,6 @@
 # Gastroenterology OSCE 
 
-<p align=center> <img src="https://scrappers-glitch.github.io/Medical-Archive/Gastroenterology/OSCE/_assets/overview.png" width=300 height=300 /> </p>
+<p align=center> <img src="https://github.com/Scrappers-glitch/Medical-Archive/blob/master/Gastroenterology/OSCE/_assets/overview.png" width=600 height=600 /> </p>
 
 ## Table of contents: 
 - [x] [General Examination]()
