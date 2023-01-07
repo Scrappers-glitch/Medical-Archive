@@ -15,11 +15,12 @@
 
 > Key Tips to differentiate hernias from other lumps: 
 
-| Tool/D.D | Herniated bowel | Lipomas | Femoral/Illiac artery aneurysms | Undescended testicles |
+| Tool/D.D | Herniated bowel | Lipomas | Femoral/Illiac artery aneurysms - Saphena varix | Undescended testicles |
 |------------------|--------------|---------------|------------------------|---------------------|
-| `By Inspection` | Spontaneously/Manually reducible or Non-reducible | Friable not reducible masses and moveable with the skin |
-| `By Palpation` | Cannot get over its surface | Friable fibrofatty surface | 
-| `By Auscultation` | Bowel gargling sounds with frequency of 5-10 seconds each 2 minutes | No sounds |
+| `By Inspection` | Spontaneously/Manually reducible or Non-reducible | Friable not reducible masses and moveable with the skin | Pulsatile mass | inguinal swelling |
+| `By Palpation` | Cannot get over its surface, not fixed to the skin and reducible | Friable fluctuable regular well-defined fibrofatty surface | thrills | cystic swelling - soft or hard |
+| `By Auscultation` | Bowel gargling sounds with frequency of 5-10 seconds each 2 minutes and incresed frequency in case of incarcerated hernias | No sounds | vascular bruits | - |
+| `Transillumination` | - | lights up if cystic with clear fluid | - | lights up if cystic with translucent fluid |
 
 #### Examination sequence: 
 - [x] Wash your hands and glove up.
@@ -39,12 +40,16 @@
   * Ask the patient to cough and feel for cough impulse.
   * Palpate the area along the **inguinal canal and the internal ring** for possible muscle defects.
   * Again, Ask the patient to cough and feel for cough impulse.
+- [x] **Scrotum invagination test**: to confirm an indirect hernia, examine the external inguinal ring by invaginating the index finger into the scrotum and asking the patient to cough again or perform a valsalva maneuver.
 - [x] **Auscultation**: ascultate over the lump for 2 minutes for intestinal gurgling sounds of frequency 5-10 seconds, increased sound frequency may indicate intestinal obstruction (incarcerated hernia), while bruits may indicate femoral aneurysms.
 - [x] **Re-position the patient**: now in supine (recumbent) position.
 - [x] **Is the lump Spontaneously Reducible ?**: by inspection, establish whether the lump is spontaneously reducible (as an effect of the changed direction of the gravitational force vector affecting the lump and decreased intraabdominal pressure).
+  * **Direction of reducibility**: notice the direction in which the lump reduces.
+  * **Inguinal occlusion test**: press 2 fingers over the internal inguinal ring at **the mid-inguinal point** and ask the patient to cough.
+  * **Test Result**: if an impulse appears under your finger tip and the hernia 
 - [x] **Is the lump Manually Reducible ?**: if the lump isn't spontaneously reducible, ask the patient to try to reduce it manually.
   * **Direction of reducibility**: notice the direction in which the patient reduces the hernia (if it's reducible) will give a clue to the type of the hernia whether a direct, indirect inguinal or femoral.
-  *  **Cough Impulse**: press 2 fingers over the internal inguinal ring at **the mid-inguinal point** 
+  * **Inguinal occlusion test**: press 2 fingers over the internal inguinal ring at **the mid-inguinal point** and ask the patient to cough.
 - [x] **Not reducible ?**: an incarcerated hernia is usually red, tense and tender and is considered a medical emergency as the patient should be quickly evaluated for hernial repair surgery. 
 - [x] **Locate the pubic tubercle**: locate it by finding the origin of the adductor longus muscle.
 - [x] **Lump relation to the pubic tubercle**: after confirming that the mass is an actual hernia, determining its relation to the pubic tubercle will confirm its type.
@@ -59,18 +64,23 @@
 | ------------------------- |
 | <img src="https://github.com/Scrappers-glitch/Medical-Archive/tree/master/../../../../../../.assets/pubic-tubercle-relations.png" width=200 height=400 /> |
 
+| Scrotum invagination test |
+|--------------------------|
+| <img src="https://github.com/Scrappers-glitch/Medical-Archive/tree/master/../../../../../../.assets/scrotum-invagination.png" width=200 height=400 /> |
+
 | Internalized View of the Inguinal Region | 
 | ----------------------- |
 | <img src="https://github.com/Scrappers-glitch/Medical-Archive/tree/master/../../../../../../.assets/internalized-view.png" width=200 height=400 /> | 
 
 | Boundaries of the inguinal canal | Contents of the inguinal canal |
 |----------------------------------|--------------------------------|
-| | |
-| | |
+| <img src="https://github.com/Scrappers-glitch/Medical-Archive/tree/master/../../../../../../.assets/inguinal-canal.png" width=200 height=400 /> | |
+| - Anteriorly: External oblique aponeurosis </br> - Laterally: Internal oblique muscle </br> - Medially: conjoint tendon </br> - Superiorly: Internal oblique and transversus abdominis </br> - Inferiorly: inguinal ligament </br> - Posteriorly: transversalis fascia and transversus abdominis muscle | <ul> <li> Spermatic cord wrapped with spermatic fascia: - Ductus deference - Ductus vessels - Testicular vessels - Cremasteric vessels - Cremasteric muscle (medial part) - Genital branch of genitofemoral nerve </li> <li> Ilioinguinal nerve </li> </ul> |
 
-| Embryology of the undescended testicles | 
+| Congenital herniation | 
 | -------------------------------------- |
-||
+|<img src="https://github.com/Scrappers-glitch/Medical-Archive/tree/master/../../../../../../.assets/pathophysiology-congenital-hernia.png" width=200 height=400 /> |
+| Congenital hernias, which make up the majority of pediatric hernias, can be considered a developmental defect rather than an acquired weakness. During the normal course of development, the testes descend from the intra-abdominal space into the scrotum in the third trimester. Their descent is guided by the gubernaculum through an evagination of the peritoneum, which protrudes through the inguinal canal and becomes the processus vaginalis. Between 36 and 40 weeks’ gestation, the processus vaginalis closes and eliminates the peritoneal opening at the internal inguinal ring. 14 Failure of the peritoneum to close results in a patent processus vaginalis (PPV). In preterm babies, indirect inguinal hernias as a result of PPV is very high (Fig. 37-10). However, overall, the risk of developing a symptomatic hernia during childhood in the presence of a known PPV is relatively low. | |
 
 | Boundaries of the femoral triangle | Contents of the femoral triangle |
 |--------------------------------------|--------------------------|
@@ -89,7 +99,15 @@ thigh.
 | <img src="https://github.com/Scrappers-glitch/Medical-Archive/tree/master/../../../../../../.assets/femoral-sheath.png" width=200 height=400 /> |
 | <img src="https://github.com/Scrappers-glitch/Medical-Archive/tree/master/../../../../../../.assets/femoral-canal-2.png" width=200 height=400 /> |
 
+Boundaries of the femoral canal: 
+* Medially: lymphatic vessels and the medial wrapping of the femoral sheath.
+* Laterally: 
+* Superiorly: the femoral ring (a potentially weak point in the lower abdomen and the site for femoral hernias).
+* Inferiorly: 
+* Anteriorly: the femoral sheath and the fascia lata
+* Posteriorly: the femoral sheath and the thigh adductors
 
-| Boundaries of the femoral canal | Contents of the femoral canal |
-|---------------------------------|-------------------------------|
-| |||
+
+Contents of the femoral canal:
+* The femoral lymphatics.
+
