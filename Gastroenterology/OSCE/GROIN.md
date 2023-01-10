@@ -108,9 +108,9 @@ thigh.
 
 Boundaries of the femoral canal: 
 * Medially: lymphatic vessels and the medial wrapping of the femoral sheath.
-* Laterally: 
+* Laterally: the femoral vein.
 * Superiorly: the femoral ring (a potentially weak point in the lower abdomen and the site for femoral hernias).
-* Inferiorly: 
+* Inferiorly: a countinuation to the adductor canal.
 * Anteriorly: the femoral sheath and the fascia lata
 * Posteriorly: the femoral sheath and the thigh adductors
 
