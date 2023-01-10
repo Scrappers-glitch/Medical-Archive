@@ -41,6 +41,8 @@
   * Ask the patient to cough and feel for cough impulse.
   * Palpate the area along the **inguinal canal and the internal ring** for possible muscle defects.
   * Again, Ask the patient to cough and feel for cough impulse.
+  * **Scrotal neck test**: hold the neck of the scrotum between the fingers of both hands and palpate over it comparing both sides, a mass you cannot get over its superior surface is considered an indirect inguinal hernia.
+  * Again, ask the patient to cough and feel for cough impulse while holding the neck of the scrotum.
 - [x] **Auscultation**: ascultate over the lump for 2 minutes for intestinal gurgling sounds of frequency 5-10 seconds, increased sound frequency may indicate intestinal obstruction (incarcerated hernia), while bruits may indicate femoral aneurysms.
 - [x] **Re-position the patient**: now in supine (recumbent) position.
 - [x] **Is the lump Spontaneously Reducible ?**: by inspection, establish whether the lump is spontaneously reducible (as an effect of the changed direction of the gravitational force vector affecting the lump and decreased intraabdominal pressure).
