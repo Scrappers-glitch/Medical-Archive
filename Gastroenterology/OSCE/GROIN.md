@@ -46,7 +46,7 @@
 - [x] **Is the lump Spontaneously Reducible ?**: by inspection, establish whether the lump is spontaneously reducible (as an effect of the changed direction of the gravitational force vector affecting the lump and decreased intraabdominal pressure).
   * **Direction of reducibility**: notice the direction in which the lump reduces.
   * **Inguinal occlusion test**: press 2 fingers over the internal inguinal ring at **the mid-inguinal point** and ask the patient to cough.
-  * **Test Result**: if an impulse appears under your finger tip and the hernia 
+  * **Test Result**: if an impulse appears under your finger tip, then the lump is an indirect inguinal hernia.
 - [x] **Is the lump Manually Reducible ?**: if the lump isn't spontaneously reducible, ask the patient to try to reduce it manually.
   * **Direction of reducibility**: notice the direction in which the patient reduces the hernia (if it's reducible) will give a clue to the type of the hernia whether a direct, indirect inguinal or femoral.
   * **Inguinal occlusion test**: press 2 fingers over the internal inguinal ring at **the mid-inguinal point** and ask the patient to cough.
