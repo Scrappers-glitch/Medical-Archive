@@ -41,7 +41,6 @@
   * Ask the patient to cough and feel for cough impulse.
   * Palpate the area along the **inguinal canal and the internal ring** for possible muscle defects.
   * Again, Ask the patient to cough and feel for cough impulse.
-- [x] **Scrotum invagination test**: to confirm an indirect hernia, examine the external inguinal ring by invaginating the index finger into the scrotum and asking the patient to cough again or perform a valsalva maneuver.
 - [x] **Auscultation**: ascultate over the lump for 2 minutes for intestinal gurgling sounds of frequency 5-10 seconds, increased sound frequency may indicate intestinal obstruction (incarcerated hernia), while bruits may indicate femoral aneurysms.
 - [x] **Re-position the patient**: now in supine (recumbent) position.
 - [x] **Is the lump Spontaneously Reducible ?**: by inspection, establish whether the lump is spontaneously reducible (as an effect of the changed direction of the gravitational force vector affecting the lump and decreased intraabdominal pressure).
@@ -51,6 +50,7 @@
 - [x] **Is the lump Manually Reducible ?**: if the lump isn't spontaneously reducible, ask the patient to try to reduce it manually.
   * **Direction of reducibility**: notice the direction in which the patient reduces the hernia (if it's reducible) will give a clue to the type of the hernia whether a direct, indirect inguinal or femoral.
   * **Inguinal occlusion test**: press 2 fingers over the internal inguinal ring at **the mid-inguinal point** and ask the patient to cough.
+  * **Scrotum invagination test**: to confirm an indirect hernia, examine the external inguinal ring by invaginating the index finger into the scrotum and asking the patient to cough again or perform a valsalva maneuver.
 - [x] **Not reducible ?**: an incarcerated hernia is usually red, tense and tender and is considered a medical emergency as the patient should be quickly evaluated for hernial repair surgery. 
 - [x] **Locate the pubic tubercle**: locate it by finding the origin of the adductor longus muscle.
 - [x] **Lump relation to the pubic tubercle**: after confirming that the mass is an actual hernia, determining its relation to the pubic tubercle will confirm its type.
