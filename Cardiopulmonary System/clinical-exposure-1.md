@@ -21,3 +21,18 @@ A couple of notes on my first clinical exposure to the cardiopulmonary system.
 | HR > 100 BPM (Heart strain due to pulmonary hypertension) | 1.5 | 
 | Hemoptysis (Lung infarction) | 1.0 | 
 | Active Cancer | 1.0 | 
+
+> Three-tiered clinical probability score (Well's Criteria): 
+> * High -- more than 6.0
+> * Moderate -- from 2.0 to 6.0
+> * Low -- less than 2.0
+
+> Modified Well's Criteria:
+> * PE likely -- more than 4.0
+> * PE unlikely -- less than or equal to 4.0
+
+> ### Management:
+
+| Anti-coagulation | Thrombolytic therapy | Additional Measures | 
+|------------------|----------------------|---------------------|
+| Mechanism: Impedes further thrombus formation allowing the internal fibrinolytic mechanism to lyse existing clot, decreasing mortality and recurrence of PE. - Recipe: 1) Initial heparinization with Low Molecular Weight Heparin (LMWH) and Warfarin, then stop heparin when INR becomes  | 
