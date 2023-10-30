@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T04:43:13.678Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="zEyVJgBWO_5P--YPgY7I" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T04:49:11.082Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="vIdmpa9Ya77-usIT-aq0" version="22.0.8" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1723" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1451" dy="281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="V2TOWGSB-yaAoC9O6gta-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2TOWGSB-yaAoC9O6gta-96" target="V2TOWGSB-yaAoC9O6gta-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V2TOWGSB-yaAoC9O6gta-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2TOWGSB-yaAoC9O6gta-96" target="V2TOWGSB-yaAoC9O6gta-124">
+        <mxCell id="V2TOWGSB-yaAoC9O6gta-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2TOWGSB-yaAoC9O6gta-96" target="V2TOWGSB-yaAoC9O6gta-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V2TOWGSB-yaAoC9O6gta-96" value="Shocked patient" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -37,20 +37,14 @@
         <mxCell id="V2TOWGSB-yaAoC9O6gta-103" value="Distributive Shock" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1290" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V2TOWGSB-yaAoC9O6gta-113" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2TOWGSB-yaAoC9O6gta-106" target="V2TOWGSB-yaAoC9O6gta-112">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="V2TOWGSB-yaAoC9O6gta-115" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2TOWGSB-yaAoC9O6gta-106" target="V2TOWGSB-yaAoC9O6gta-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V2TOWGSB-yaAoC9O6gta-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2TOWGSB-yaAoC9O6gta-106" target="V2TOWGSB-yaAoC9O6gta-112">
+        <mxCell id="V2TOWGSB-yaAoC9O6gta-146" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2TOWGSB-yaAoC9O6gta-106" target="V2TOWGSB-yaAoC9O6gta-145">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V2TOWGSB-yaAoC9O6gta-106" value="Is Hemorrhagic?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="765" y="235" width="110" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="V2TOWGSB-yaAoC9O6gta-112" value="Traumatic/Non-traumatic - External/Internal" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="965" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V2TOWGSB-yaAoC9O6gta-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2TOWGSB-yaAoC9O6gta-114" target="V2TOWGSB-yaAoC9O6gta-122">
           <mxGeometry relative="1" as="geometry" />
@@ -111,6 +105,21 @@
         </mxCell>
         <mxCell id="V2TOWGSB-yaAoC9O6gta-142" value="Treat spesis; by broad spectrum antibiotics after taking 2 sets of blood cultures from different sites" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="1411.25" width="160" height="108.75" as="geometry" />
+        </mxCell>
+        <mxCell id="V2TOWGSB-yaAoC9O6gta-148" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2TOWGSB-yaAoC9O6gta-145" target="V2TOWGSB-yaAoC9O6gta-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V2TOWGSB-yaAoC9O6gta-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2TOWGSB-yaAoC9O6gta-145" target="V2TOWGSB-yaAoC9O6gta-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V2TOWGSB-yaAoC9O6gta-145" value="Is External?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V2TOWGSB-yaAoC9O6gta-147" value="&lt;ol&gt;&lt;li&gt;Apply wound compression&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V2TOWGSB-yaAoC9O6gta-149" value="&lt;ol&gt;&lt;li&gt;Consider ruptured AAA in males aged &amp;gt; 45 with adequate risk factors.&lt;/li&gt;&lt;li&gt;Hemothorax, hemoperitoneum, retroperitoneal hemorrhage , and pelvic and long bones fractures according to the history.&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="915" y="410" width="190" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
