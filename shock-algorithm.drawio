@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T04:40:12.274Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="KZt7ncnRfT9ctzbdD6H2" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T04:43:01.930Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="hw3e8U6l2iK6n0PDFwE4" version="22.0.8" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1723" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -97,8 +97,20 @@
         <mxCell id="V2TOWGSB-yaAoC9O6gta-136" value="Aim for urine output of {0.5 - 1} ml/kg/hr" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="360" y="865" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="V2TOWGSB-yaAoC9O6gta-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2TOWGSB-yaAoC9O6gta-138" target="V2TOWGSB-yaAoC9O6gta-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="V2TOWGSB-yaAoC9O6gta-138" value="Give cross-matched blood, in case of blood loss aiming for HB 7-10 mg/dl or HT &amp;gt; 30%, use O-negative blood group if the situation is desperate" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="352.5" y="1005" width="135" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="V2TOWGSB-yaAoC9O6gta-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2TOWGSB-yaAoC9O6gta-140" target="V2TOWGSB-yaAoC9O6gta-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V2TOWGSB-yaAoC9O6gta-140" value="Optimize afterload; by giving a vasopressor in case of anaphylaxis or&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1217.5" width="150" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="V2TOWGSB-yaAoC9O6gta-142" value="Treat spesis; by broad spectrum antibiotics after taking 2 sets of blood cultures from different sites" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1411.25" width="160" height="138.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
