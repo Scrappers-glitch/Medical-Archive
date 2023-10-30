@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T04:27:17.481Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fEzHUcklkqwXrnTBjF_A" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T04:29:06.449Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="W20Zijr1K19c03Egkf9O" version="22.0.8" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1538" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -40,10 +40,13 @@
         <mxCell id="V2TOWGSB-yaAoC9O6gta-115" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2TOWGSB-yaAoC9O6gta-106" target="V2TOWGSB-yaAoC9O6gta-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="V2TOWGSB-yaAoC9O6gta-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2TOWGSB-yaAoC9O6gta-106" target="V2TOWGSB-yaAoC9O6gta-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="V2TOWGSB-yaAoC9O6gta-106" value="Is Hemorrhagic?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="765" y="235" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="V2TOWGSB-yaAoC9O6gta-112" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="V2TOWGSB-yaAoC9O6gta-112" value="Traumatic/Non-traumatic - External/Internal" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="965" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V2TOWGSB-yaAoC9O6gta-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V2TOWGSB-yaAoC9O6gta-114" target="V2TOWGSB-yaAoC9O6gta-118">
