@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T05:05:55.844Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="qt8MUnA2lDYZAmQ_y2XU" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T06:03:00.377Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="RyDKfbgEwBXntjCj1SO7" version="22.0.8" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1912" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1809" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,7 +128,7 @@
           <mxGeometry x="970" y="525" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V2TOWGSB-yaAoC9O6gta-153" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ol style=&quot;border-color: var(--border-color); color: rgb(51, 51, 51); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Consider ruptured AAA in males aged &amp;gt; 45 with adequate risk factors.&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Hemothorax, hemoperitoneum, retroperitoneal hemorrhage from ruptured spleen/pancreas/AAA or mesentric injury.&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Consider ectopic pregnancy in a pre-menopausal female with ceased menstural periods.&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Consider gross hematuria in nephritic and nephrotic syndromes&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Spontaneous bleeding from anticoagulants (warfarin - DOAC - heparin).&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="700" width="560" height="150" as="geometry" />
+          <mxGeometry x="730" y="760" width="560" height="150" as="geometry" />
         </mxCell>
         <mxCell id="V2TOWGSB-yaAoC9O6gta-157" value="&lt;ol&gt;&lt;li&gt;Hemothorax, hemoperitoneum from liver, spleen or mesentric injury.&lt;/li&gt;&lt;li&gt;Retroperitoneall hemorrhage from aorta, pelvic or renal injury.&lt;/li&gt;&lt;li&gt;Closed long-bone and/or pelvic fracture.&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="485" width="330" height="160" as="geometry" />
