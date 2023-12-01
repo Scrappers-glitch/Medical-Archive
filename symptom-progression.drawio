@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T21:51:17.574Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Vt8v-lU2hEE9Ex5gEhNk" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T21:51:41.134Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="8aMT5TRIDwtzavkdfoqA" version="22.1.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1032" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="764" dy="343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,22 +42,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sDyi8eW20SHPn1gKo8Qu-104" value="&lt;ul style=&quot;font-size: 9px;&quot;&gt;&lt;li&gt;Accumulation of platelets at the site of dissection and initiation of the coagulation cascade.&lt;/li&gt;&lt;li&gt;Recruitment of the medial SMC and/or circulating SMC precursors.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="319" y="500" width="188" height="80" as="geometry" />
+          <mxGeometry x="319.5" y="450" width="188" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sDyi8eW20SHPn1gKo8Qu-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sDyi8eW20SHPn1gKo8Qu-106" target="sDyi8eW20SHPn1gKo8Qu-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sDyi8eW20SHPn1gKo8Qu-106" value="&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li&gt;Formation of a thrombus.&lt;/li&gt;&lt;li&gt;Intimal thickening&lt;/li&gt;&lt;/ul&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="316.00000000000006" y="620" width="193.58" height="40" as="geometry" />
+          <mxGeometry x="316.71000000000004" y="570" width="193.58" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sDyi8eW20SHPn1gKo8Qu-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sDyi8eW20SHPn1gKo8Qu-108" target="sDyi8eW20SHPn1gKo8Qu-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sDyi8eW20SHPn1gKo8Qu-108" value="&lt;ul&gt;&lt;li&gt;Luminal Obstruction.&lt;/li&gt;&lt;li&gt;Thromboembolisms.&lt;/li&gt;&lt;/ul&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="617.5" width="172.34" height="45" as="geometry" />
+          <mxGeometry x="550" y="567.5" width="172.34" height="45" as="geometry" />
         </mxCell>
         <mxCell id="sDyi8eW20SHPn1gKo8Qu-110" value="Acute Ischemic Strokes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="566.17" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="576.17" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sDyi8eW20SHPn1gKo8Qu-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sDyi8eW20SHPn1gKo8Qu-113" target="sDyi8eW20SHPn1gKo8Qu-101">
           <mxGeometry relative="1" as="geometry" />
