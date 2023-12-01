@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T19:40:28.785Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="xHg3Y5me54QPT9P4HaKE" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T21:37:37.646Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="CtdnhXoBImMG7xUNv9xV" version="22.1.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1032" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="590" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,8 +27,20 @@
         <mxCell id="sDyi8eW20SHPn1gKo8Qu-99" value="&lt;ul&gt;&lt;li&gt;Hemorrhage&amp;nbsp;&lt;/li&gt;&lt;li&gt;Hypoperfusion&lt;/li&gt;&lt;/ul&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570.5" y="160" width="169.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sDyi8eW20SHPn1gKo8Qu-101" value="&lt;ul&gt;&lt;li&gt;Endothelial injury&lt;/li&gt;&lt;li&gt;Abnormal Healing&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sDyi8eW20SHPn1gKo8Qu-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sDyi8eW20SHPn1gKo8Qu-101" target="sDyi8eW20SHPn1gKo8Qu-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sDyi8eW20SHPn1gKo8Qu-101" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Endothelial injury&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="380" width="166.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sDyi8eW20SHPn1gKo8Qu-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sDyi8eW20SHPn1gKo8Qu-104" target="sDyi8eW20SHPn1gKo8Qu-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sDyi8eW20SHPn1gKo8Qu-104" value="&lt;ul style=&quot;font-size: 9px;&quot;&gt;&lt;li&gt;Accumulation of platelets at the site of dissection and initiation of the coagulation cascade.&lt;/li&gt;&lt;li&gt;Recruitment of the medial SMC and/or circulating SMC precursors.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="319" y="550" width="188" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sDyi8eW20SHPn1gKo8Qu-106" value="&lt;ul&gt;&lt;li&gt;Intimal thicken&lt;/li&gt;&lt;/ul&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335.19" y="710" width="156.63" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
