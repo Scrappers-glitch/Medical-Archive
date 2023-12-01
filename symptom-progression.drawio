@@ -1,9 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T19:35:45.353Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="GQCrP055xYXT6HpP4N1M" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T19:40:28.785Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="xHg3Y5me54QPT9P4HaKE" version="22.1.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1032" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sDyi8eW20SHPn1gKo8Qu-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sDyi8eW20SHPn1gKo8Qu-96" target="sDyi8eW20SHPn1gKo8Qu-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sDyi8eW20SHPn1gKo8Qu-96" value="Neck Trauma/Compression" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sDyi8eW20SHPn1gKo8Qu-100" value="Rupture" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sDyi8eW20SHPn1gKo8Qu-97" target="sDyi8eW20SHPn1gKo8Qu-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sDyi8eW20SHPn1gKo8Qu-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sDyi8eW20SHPn1gKo8Qu-97" target="sDyi8eW20SHPn1gKo8Qu-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sDyi8eW20SHPn1gKo8Qu-103" value="Dissection" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sDyi8eW20SHPn1gKo8Qu-102">
+          <mxGeometry x="-0.2341" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sDyi8eW20SHPn1gKo8Qu-97" value="Possible carotid injury" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="140" width="137" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sDyi8eW20SHPn1gKo8Qu-99" value="&lt;ul&gt;&lt;li&gt;Hemorrhage&amp;nbsp;&lt;/li&gt;&lt;li&gt;Hypoperfusion&lt;/li&gt;&lt;/ul&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570.5" y="160" width="169.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sDyi8eW20SHPn1gKo8Qu-101" value="&lt;ul&gt;&lt;li&gt;Endothelial injury&lt;/li&gt;&lt;li&gt;Abnormal Healing&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="380" width="166.5" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
