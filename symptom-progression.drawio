@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T21:49:43.479Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="j4iuYWhTpuYeLe23XRCw" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T21:50:20.830Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="387-724UQkdMo22pXoS1" version="22.1.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1032" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sDyi8eW20SHPn1gKo8Qu-96" value="Neck Trauma/Compression" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="353" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="353" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sDyi8eW20SHPn1gKo8Qu-100" value="Rupture" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sDyi8eW20SHPn1gKo8Qu-97" target="sDyi8eW20SHPn1gKo8Qu-99">
           <mxGeometry relative="1" as="geometry" />
@@ -25,7 +25,7 @@
           <mxGeometry x="345" y="140" width="137" height="120" as="geometry" />
         </mxCell>
         <mxCell id="sDyi8eW20SHPn1gKo8Qu-99" value="&lt;ul&gt;&lt;li&gt;Hemorrhage&amp;nbsp;&lt;/li&gt;&lt;li&gt;Hypoperfusion&lt;/li&gt;&lt;/ul&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
-          <mxGeometry x="570.5" y="160" width="169.5" height="80" as="geometry" />
+          <mxGeometry x="516.67" y="160" width="169.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sDyi8eW20SHPn1gKo8Qu-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sDyi8eW20SHPn1gKo8Qu-101" target="sDyi8eW20SHPn1gKo8Qu-104">
           <mxGeometry relative="1" as="geometry" />
@@ -36,7 +36,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sDyi8eW20SHPn1gKo8Qu-101" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Endothelial injury&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="330" y="380" width="166.5" height="80" as="geometry" />
+          <mxGeometry x="330.25" y="330" width="166.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sDyi8eW20SHPn1gKo8Qu-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sDyi8eW20SHPn1gKo8Qu-104" target="sDyi8eW20SHPn1gKo8Qu-106">
           <mxGeometry relative="1" as="geometry" />
@@ -63,7 +63,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sDyi8eW20SHPn1gKo8Qu-113" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Horner Syndrome&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="510.29" y="290" width="166.5" height="80" as="geometry" />
+          <mxGeometry x="496.75" y="280" width="133.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
